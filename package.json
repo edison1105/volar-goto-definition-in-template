@@ -1,0 +1,24 @@
+{
+  "name": "volar-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "next"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "@volar-plugins/prettyhtml": "latest",
+    "@volar/vue-language-core": "latest",
+    "@vue/compiler-sfc": "latest",
+    "muggle-string": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "vite-plugin-inspect": "latest",
+    "vite-plugin-vue-component-preview": "latest",
+    "vue-tsc": "latest"
+  }
+}
