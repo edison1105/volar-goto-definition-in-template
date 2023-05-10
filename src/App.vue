@@ -1,5 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
+  <!-- CMD + left click `HelloWorld` can NOT open HelloWorld.vue -->
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
 </template>
 
